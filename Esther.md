@@ -1,3 +1,29 @@
+# Esther 11
+
+Mordecai’s Dream
+1 2 In the second year of the reign of Ahasuerus the Great, on the first day of Nisan, Mordecai son of Jair son of Shimei son of Kish, of the tribe of Benjamin, had a dream.
+3 He was a Jew living in the city of Susa, a great man, serving in the court of the king.
+4 He was one of the captives whom King Nebuchadnezzar of Babylon had brought from Jerusalem with King Jeconiah of Judea. And this was his dream:
+5 Noises and confusion, thunders and earthquake, tumult on the earth!
+6 Then two great dragons came forward, both ready to fight, and they roared terribly.
+7 At their roaring every nation prepared for war, to fight against the righteous nation.
+8 It was a day of darkness and gloom, of tribulation and distress, affliction and great tumult on the earth!
+9 And the whole righteous nation was troubled; they feared the evils that threatened them, and were ready to perish.
+10 Then they cried out to God; and at their outcry, as though from a tiny spring, there came a great river, with abundant water;
+11 light came, and the sun rose, and the lowly were exalted and devoured those held in honor.
+
+12 Mordecai saw in this dream what God had determined to do, and after he awoke he had it on his mind, seeking all day to understand it in every detail.
+
+# Esther 12
+
+A Plot against the King
+1 NOW Mordecai took his rest in the courtyard with Gabatha and Tharra, the two eunuchs of the king who kept watch in the courtyard.
+2 He overheard their conversation and inquired into their purposes, and learned that they were preparing to lay hands on King Ahasuerus; and he informed the king concerning them.
+3 Then the king examined the two eunuchs, and after they had confessed it, they were led away to execution.
+4 The king made a permanent record of these things, and Mordecai wrote an account of them.
+5 And the king ordered Mordecai to serve in the court, and rewarded him for these things.
+6 But Haman son of Hammedatha, a Bougean, who was in great honor with the king, determined to injure Mordecai and his people because of the two eunuchs of the king.
+
 # Esther 1
 
 King Ahasuerus Deposes Queen Vashti
@@ -78,6 +104,22 @@ Haman Undertakes to Destroy the Jews
 
 12 Then the king’s secretaries were summoned on the thirteenth day of the first month, and an edict, according to all that Haman commanded, was written to the king’s satraps and to the governors over all the provinces and to the officials of all the peoples, to every province in its own script and every people in its own language; it was written in the name of King Ahasuerus and sealed with the king’s ring.
 13 Letters were sent by couriers to all the king’s provinces, giving orders to destroy, to kill, and to annihilate all Jews, young and old, women and children, in one day, the thirteenth day of the twelfth month, which is the month of Adar, and to plunder their goods.
+
+# Esther 13
+
+The King’s Letter
+1 This is a copy of the letter: “The Great King, Ahasuerus, writes the following to the governors of the hundred twenty-seven provinces from India to Ethiopia and to the officials under them:
+
+2 “Having become ruler of many nations and master of the whole world (not elated with presumption of authority but always acting reasonably and with kindness), I have determined to settle the lives of my subjects in lasting tranquility and, in order to make my kingdom peaceable and open to travel throughout all its extent, to restore the peace desired by all people.
+
+3 “When I asked my counselors how this might be accomplished, Haman—who excels among us in sound judgment, and is distinguished for his unchanging goodwill and steadfast fidelity, and has attained the second place in the kingdom—
+4 pointed out to us that among all the nations in the world there is scattered a certain hostile people, who have laws contrary to those of every nation and continually disregard the ordinances of kings, so that the unifying of the kingdom that we honorably intend cannot be brought about.
+5 We understand that this people, and it alone, stands constantly in opposition to every nation, perversely following a strange manner of life and laws, and is ill-disposed to our government, doing all the harm they can so that our kingdom may not attain stability.
+
+6 “Therefore we have decreed that those indicated to you in the letters written by Haman, who is in charge of affairs and is our second father, shall all—wives and children included—be utterly destroyed by the swords of their enemies, without pity or restraint, on the fourteenth day of the twelfth month, Adar, of this present year,
+7 so that those who have long been hostile and remain so may in a single day go down in violence to Hades, and leave our government completely secure and untroubled hereafter.”
+
+# Esther 3b
 14 A copy of the document was to be issued as a decree in every province by proclamation, calling on all the peoples to be ready for that day.
 15 The couriers went quickly by order of the king, and the decree was issued in the citadel of Susa. The king and Haman sat down to drink; but the city of Susa was thrown into confusion.
 
@@ -104,10 +146,70 @@ Esther Agrees to Help the Jews
 16 “Go, gather all the Jews to be found in Susa, and hold a fast on my behalf, and neither eat nor drink for three days, night or day. I and my maids will also fast as you do. After that I will go to the king, though it is against the law; and if I perish, I perish.”
 17 Mordecai then went away and did everything as Esther had ordered him.
 
+# Esther 13
+
+Mordecai’s Prayer
+1 8 Then Mordecai prayed to the LORD, calling to remembrance all the works of the LORD.
+
+9 He said, “O LORD, LORD, you rule as King over all things, for the universe is in your power and there is no one who can oppose you when it is your will to save Israel,
+10 for you have made heaven and earth and every wonderful thing under heaven.
+11 You are LORD of all, and there is no one who can resist you, the LORD.
+12 You know all things; you know, O LORD, that it was not in insolence or pride or for any love of glory that I did this, and refused to bow down to this proud Haman;
+13 for I would have been willing to kiss the soles of his feet to save Israel!
+14 But I did this so that I might not set human glory above the glory of God, and I will not bow down to anyone but you, who are my LORD; and I will not do these things in pride.
+15 And now, O LORD God and King, God of Abraham, spare your people; for the eyes of our foes are upon us to annihilate us, and they desire to destroy the inheritance that has been yours from the beginning.
+16 Do not neglect your portion, which you redeemed for yourself out of the land of Egypt.
+17 Hear my prayer, and have mercy upon your inheritance; turn our mourning into feasting that we may live and sing praise to your name, O LORD; do not destroy the lips of those who praise you.”
+
+18 And all Israel cried out mightily, for their death was before their eyes.
+
+# Esther 14
+
+Esther’s Prayer
+1 THEN Queen Esther, seized with deadly anxiety, fled to the LORD.
+2 She took off her splendid apparel and put on the garments of distress and mourning, and instead of costly perfumes she covered her head with ashes and dung, and she utterly humbled her body; every part that she loved to adorn she covered with her tangled hair.
+3 She prayed to the LORD God of Israel, and said: “O my LORD, you only are our king; help me, who am alone and have no helper but you,
+4 for my danger is in my hand.
+5 Ever since I was born I have heard in the tribe of my family that you, O LORD, took Israel out of all the nations, and our ancestors from among all their forebears, for an everlasting inheritance, and that you did for them all that you promised.
+6 And now we have sinned before you, and you have handed us over to our enemies
+7 because we glorified their gods. You are righteous, O LORD!
+8 And now they are not satisfied that we are in bitter slavery, but they have covenanted with their idols
+9 to abolish what your mouth has ordained, and to destroy your inheritance, to stop the mouths of those who praise you and to quench your altar and the glory of your house,
+10 to open the mouths of the nations for the praise of vain idols, and to magnify forever a mortal king.
+
+11 “O LORD, do not surrender your scepter to what has no being; and do not let them laugh at our downfall; but turn their plan against them, and make an example of him who began this against us.
+12 Remember, O LORD; make yourself known in this time of our affliction, and give me courage, O King of the gods and Master of all dominion!
+13 Put eloquent speech in my mouth before the lion, and turn his heart to hate the man who is fighting against us, so that there may be an end of him and those who agree with him.
+14 But save us by your hand, and help me, who am alone and have no helper but you, O LORD.
+15 You have knowledge of all things, and you know that I hate the splendor of the wicked and abhor the bed of the uncircumcised and of any alien.
+16 You know my necessity—that I abhor the sign of my proud position, which is upon my head on days when I appear in public. I abhor it like a filthy rag, and I do not wear it on the days when I am at leisure.
+17 And your servant has not eaten at Haman’s table, and I have not honored the king’s feast or drunk the wine of libations.
+18 Your servant has had no joy since the day that I was brought here until now, except in you, O LORD God of Abraham.
+19 O God, whose might is over all, hear the voice of the despairing, and save us from the hands of evildoers. And save me from my fear!”
+
+# Esther 15
+
+Esther Is Received by the King
+1 ON THE third day, when she ended her prayer, she took off the garments in which she had worshiped, and arrayed herself in splendid attire.
+2 Then, majestically adorned, after invoking the aid of the all-seeing God and Savior, she took two maids with her;
+3 on one she leaned gently for support,
+4 while the other followed, carrying her train.
+5 She was radiant with perfect beauty, and she looked happy, as if beloved, but her heart was frozen with fear.
+6 When she had gone through all the doors, she stood before the king. He was seated on his royal throne, clothed in the full array of his majesty, all covered with gold and precious stones. He was most terrifying.
+
+7 Lifting his face, flushed with splendor, he looked at her in fierce anger. The queen faltered, and turned pale and faint, and collapsed on the head of the maid who went in front of her.
+8 Then God changed the spirit of the king to gentleness, and in alarm he sprang from his throne and took her in his arms until she came to herself. He comforted her with soothing words, and said to her,
+9 “What is it, Esther? I am your husband. Take courage;
+10 You shall not die, for our law applies only to our subjects. Come near.”
+
+11 Then he raised the golden scepter and touched her neck with it;
+12 he embraced her, and said, “Speak to me.”
+13 She said to him, “I saw you, my LORD, like an angel of God, and my heart was shaken with fear at your glory.
+14 For you are wonderful, my LORD, and your countenance is full of grace.”
+15 And while she was speaking, she fainted and fell.
+16 Then the king was agitated, and all his servants tried to comfort her.
+
 # Esther 5
-Esther’s Banquet
-1 ON THE third day Esther put on her royal robes and stood in the inner court of the king’s palace, opposite the king’s hall. The king was sitting on his royal throne inside the palace opposite the entrance to the palace.
-2 As soon as the king saw Queen Esther standing in the court, she won his favor and he held out to her the golden scepter that was in his hand. Then Esther approached and touched the top of the scepter.
 3 The king said to her, “What is it, Queen Esther? What is your request? It shall be given you, even to the half of my kingdom.”
 4 Then Esther said, “If it pleases the king, let the king and Haman come today to a banquet that I have prepared for the king.”
 5 Then the king said, “Bring Haman quickly, so that we may do as Esther desires.” So the king and Haman came to the banquet that Esther had prepared.
@@ -156,7 +258,7 @@ Haman’s Downfall and Mordecai’s Advancement
 9 Then Harbona, one of the eunuchs in attendance on the king, said, “Look, the very gallows that Haman has prepared for Mordecai, whose word saved the king, stands at Haman’s house, fifty cubits high.” And the king said, “Hang him on that.”
 10 So they hanged Haman on the gallows that he had prepared for Mordecai. Then the anger of the king abated.
 
-# Esther 8
+# Esther 8a
 
 Esther Saves the Jews
 1 ON THAT day King Ahasuerus gave to Queen Esther the house of Haman, the enemy of the Jews; and Mordecai came before the king, for Esther had told what he was to her.
@@ -173,6 +275,45 @@ Esther Saves the Jews
 10 He wrote letters in the name of King Ahasuerus, sealed them with the king’s ring, and sent them by mounted couriers riding on fast steeds bred from the royal herd.
 11 By these letters the king allowed the Jews who were in every city to assemble and defend their lives, to destroy, to kill, and to annihilate any armed force of any people or province that might attack them, with their children and women, and to plunder their goods
 12 on a single day throughout all the provinces of King Ahasuerus, on the thirteenth day of the twelfth month, which is the month of Adar.
+
+# Esther 16
+
+The Decree of Ahasuerus
+1 The following is a copy of this letter:
+
+“The Great King, Ahasuerus, to the governors of the provinces from India to Ethiopia, one hundred twenty-seven provinces, and to those who are loyal to our government, greetings.
+
+2 “Many people, the more they are honored with the most generous kindness of their benefactors, the more proud do they become,
+3 and not only seek to injure our subjects, but in their inability to stand prosperity, they even undertake to scheme against their own benefactors.
+4 They not only take away thankfulness from others, but, carried away by the boasts of those who know nothing of goodness, they even assume that they will escape the evil-hating justice of God, who always sees everything.
+5 And often many of those who are set in places of authority have been made in part responsible for the shedding of innocent blood, and have been involved in irremediable calamities, by the persuasion of friends who have been entrusted with the administration of public affairs,
+6 when these persons by the false trickery of their evil natures beguile the sincere goodwill of their sovereigns.
+
+7 “What has been wickedly accomplished through the pestilent behavior of those who exercise authority unworthily can be seen, not so much from the more ancient records that we hand on, as from investigation of matters close at hand.
+8 In the future we will take care to render our kingdom quiet and peaceable for all,
+9 by changing our methods and always judging what comes before our eyes with more equitable consideration.
+10 For Haman son of Hammedatha, a Macedonian (really an alien to the Persian blood, and quite devoid of our kindliness), having become our guest,
+11 enjoyed so fully the goodwill that we have for every nation that he was called our father and was continually bowed down to by all as the person second to the royal throne.
+12 But, unable to restrain his arrogance, he undertook to deprive us of our kingdom and our life,
+13 and with intricate craft and deceit asked for the destruction of Mordecai, our savior and perpetual benefactor, and of Esther, the blameless partner of our kingdom, together with their whole nation.
+14 He thought that by these methods he would catch us undefended and would transfer the kingdom of the Persians to the Macedonians.
+
+15 “But we find that the Jews, who were consigned to annihilation by this thrice-accursed man, are not evildoers, but are governed by most righteous laws
+16 and are children of the living God, most high, most mighty, who has directed the kingdom both for us and for our ancestors in the most excellent order.
+
+17 “You will therefore do well not to put in execution the letters sent by Haman son of Hammedatha,
+18 since he, the one who did these things, has been hanged at the gate of Susa with all his household—for God, who rules over all things, has speedily inflicted on him the punishment that he deserved.
+
+19 “Therefore post a copy of this letter publicly in every place, and permit the Jews to live under their own laws.
+20 And give them reinforcements, so that on the thirteenth day of the twelfth month, Adar, on that very day, they may defend themselves against those who attack them at the time of oppression.
+21 For God, who rules over all things, has made this day to be a joy for his chosen people instead of a day of destruction for them.
+
+22 “Therefore you shall observe this with all good cheer as a notable day among your commemorative festivals,
+23 so that both now and hereafter it may represent deliverance for you and the loyal Persians, but that it may be a reminder of destruction for those who plot against us.
+
+24 “Every city and country, without exception, that does not act accordingly shall be destroyed in wrath with spear and fire. It shall be made not only impassable for human beings, but also most hateful to wild animals and birds for all time.
+
+# Esther 8b
 13 A copy of the writ was to be issued as a decree in every province and published to all peoples, and the Jews were to be ready on that day to take revenge on their enemies.
 14 So the couriers, mounted on their swift royal steeds, hurried out, urged by the king’s command. The decree was issued in the citadel of Susa.
 
@@ -187,12 +328,11 @@ Destruction of the Enemies of the Jews
 2 the Jews gathered in their cities throughout all the provinces of King Ahasuerus to lay hands on those who had sought their ruin; and no one could withstand them, because the fear of them had fallen upon all peoples.
 3 All the officials of the provinces, the satraps and the governors, and the royal officials were supporting the Jews, because the fear of Mordecai had fallen upon them.
 4 For Mordecai was powerful in the king’s house, and his fame spread throughout all the provinces as the man Mordecai grew more and more powerful.
-5 So the Jews struck down all their enemies with the sword, slaughtering, and destroying them, and did as they pleased to those who hated them.
 6 In the citadel of Susa the Jews killed and destroyed five hundred people.
 7 They killed Parshandatha, Dalphon, Aspatha,
 8 Poratha, Adalia, Aridatha,
 9 Parmashta, Arisai, Aridai, Vaizatha,
-10 the ten sons of Haman son of Hammedatha, the enemy of the Jews; but they did not touch the plunder.
+10 the ten sons of Haman son of Hammedatha, the Bougean, the enemy of the Jews—and they indulged themselves in plunder.
 
 11 That very day the number of those killed in the citadel of Susa was reported to the king.
 12 The king said to Queen Esther, “In the citadel of Susa the Jews have killed five hundred people and also the ten sons of Haman. What have they done in the rest of the king’s provinces? Now what is your petition? It shall be granted you. And what further is your request? It shall be fulfilled.”
@@ -219,7 +359,6 @@ The Feast of Purim Inaugurated
 28 These days should be remembered and kept throughout every generation, in every family, province, and city; and these days of Purim should never fall into disuse among the Jews, nor should the commemoration of these days cease among their descendants.
 
 29 Queen Esther daughter of Abihail, along with the Jew Mordecai, gave full written authority, confirming this second letter about Purim.
-30 Letters were sent wishing peace and security to all the Jews, to the one hundred twenty-seven provinces of the kingdom of Ahasuerus,
 31 and giving orders that these days of Purim should be observed at their appointed seasons, as the Jew Mordecai and Queen Esther enjoined on the Jews, just as they had laid down for themselves and for their descendants regulations concerning their fasts and their lamentations.
 32 The command of Queen Esther fixed these practices of Purim, and it was recorded in writing.
 
@@ -227,3 +366,20 @@ The Feast of Purim Inaugurated
 1 King Ahasuerus laid tribute on the land and on the islands of the sea.
 2 All the acts of his power and might, and the full account of the high honor of Mordecai, to which the king advanced him, are they not written in the annals of the kings of Media and Persia?
 3 For Mordecai the Jew was next in rank to King Ahasuerus, and he was powerful among the Jews and popular with his many kindred, for he sought the good of his people and interceded for the welfare of all his descendants.
+
+Mordecai’s Dream Fulfilled
+4 And Mordecai said, “These things have come from God;
+5 for I remember the dream that I had concerning these matters, and none of them has failed to be fulfilled.
+6 There was the little spring that became a river, and there was light and sun and abundant water—the river is Esther, whom the king married and made queen.
+7 The two dragons are Haman and myself.
+8 The nations are those that gathered to destroy the name of the Jews.
+9 And my nation, this is Israel, who cried out to God and was saved. The LORD has saved his people; the LORD has rescued us from all these evils; God has done great signs and wonders, wonders that have never happened among the nations.
+10 For this purpose he made two lots, one for the people of God and one for all the nations,
+11 and these two lots came to the hour and moment and day of decision before God and among all the nations.
+12 And God remembered his people and vindicated his inheritance.
+13 So they will observe these days in the month of Adar, on the fourteenth and fifteenth of that month, with an assembly and joy and gladness before God, from generation to generation forever among his people Israel.”
+
+# Esther 11
+
+Postscript
+1 IN THE fourth year of the reign of Ptolemy and Cleopatra, Dositheus, who said that he was a priest and a Levite, and his son Ptolemy brought to Egypt the preceding Letter about Purim, which they said was authentic and had been translated by Lysimachus son of Ptolemy, one of the residents of Jerusalem.
