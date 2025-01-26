@@ -1,4 +1,5 @@
 # Esther 1
+
 King Ahasuerus Deposes Queen Vashti
 1 THIS happened in the days of Ahasuerus, the same Ahasuerus who ruled over one hundred twenty-seven provinces from India to Ethiopia. 
 2 In those days when King Ahasuerus sat on his royal throne in the citadel of Susa,
@@ -28,6 +29,7 @@ King Ahasuerus Deposes Queen Vashti
 22 he sent letters to all the royal provinces, to every province in its own script and to every people in its own language, declaring that every man should be master in his own house. 
 
 # Esther 2
+
 Esther Becomes Queen
 1 AFTER these things, when the anger of King Ahasuerus had abated, he remembered Vashti and what she had done and what had been decreed against her.
 2 Then the king’s servants who attended him said, “Let beautiful young virgins be sought out for the king.
@@ -58,7 +60,8 @@ Mordecai Discovers a Plot
 22 But the matter came to the knowledge of Mordecai, and he told it to Queen Esther, and Esther told the king in the name of Mordecai.
 23 When the affair was investigated and found to be so, both the men were hanged on the gallows. It was recorded in the book of the annals in the presence of the king.
 
-# Esther 3
+# Esther 3a
+
 Haman Undertakes to Destroy the Jews
 1 AFTER these things King Ahasuerus promoted Haman son of Hammedatha the Agagite, and advanced him and set his seat above all the officials who were with him.
 2 And all the king’s servants who were at the king’s gate bowed down and did obeisance to Haman; for the king had so commanded concerning him. But Mordecai did not bow down or do obeisance.
@@ -79,6 +82,7 @@ Haman Undertakes to Destroy the Jews
 15 The couriers went quickly by order of the king, and the decree was issued in the citadel of Susa. The king and Haman sat down to drink; but the city of Susa was thrown into confusion.
 
 # Esther 4
+
 Esther Agrees to Help the Jews
 1 WHEN Mordecai learned all that had been done, Mordecai tore his clothes and put on sackcloth and ashes, and went through the city, wailing with a loud and bitter cry;
 2 he went up to the entrance of the king’s gate, for no one might enter the king’s gate clothed with sackcloth.
@@ -120,6 +124,7 @@ Haman Plans to Have Mordecai Hanged
 14 Then his wife Zeresh and all his friends said to him, “Let a gallows fifty cubits high be made, and in the morning tell the king to have Mordecai hanged on it; then go with the king to the banquet in good spirits.” This advice pleased Haman, and he had the gallows made.
 
 # Esther 6
+
 The King Honors Mordecai
 1 ON THAT night the king could not sleep, and he gave orders to bring the book of records, the annals, and they were read to the king.
 2 It was found written how Mordecai had told about Bigthana and Teresh, two of the king’s eunuchs, who guarded the threshold, and who had conspired to assassinate King Ahasuerus.
@@ -152,6 +157,7 @@ Haman’s Downfall and Mordecai’s Advancement
 10 So they hanged Haman on the gallows that he had prepared for Mordecai. Then the anger of the king abated.
 
 # Esther 8
+
 Esther Saves the Jews
 1 ON THAT day King Ahasuerus gave to Queen Esther the house of Haman, the enemy of the Jews; and Mordecai came before the king, for Esther had told what he was to her.
 2 Then the king took off his signet ring, which he had taken from Haman, and gave it to Mordecai. So Esther set Mordecai over the house of Haman.
@@ -175,6 +181,7 @@ Esther Saves the Jews
 17 In every province and in every city, wherever the king’s command and his edict came, there was gladness and joy among the Jews, a festival and a holiday. Furthermore, many of the peoples of the country professed to be Jews, because the fear of the Jews had fallen upon them.
 
 # Esther 9
+
 Destruction of the Enemies of the Jews
 1 NOW in the twelfth month, which is the month of Adar, on the thirteenth day, when the king’s command and edict were about to be executed, on the very day when the enemies of the Jews hoped to gain power over them, but which had been changed to a day when the Jews would gain power over their foes,
 2 the Jews gathered in their cities throughout all the provinces of King Ahasuerus to lay hands on those who had sought their ruin; and no one could withstand them, because the fear of them had fallen upon all peoples.
